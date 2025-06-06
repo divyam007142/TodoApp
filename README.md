@@ -2,13 +2,13 @@
 <img src="https://raw.githubusercontent.com/maciekt07/TodoApp/main/public/logo192.png" width="128px" />
 </p> -->
 
-# 📝React.js Todo App
+# 📝React.js To-do-list App
 
 <p align="center"><i>A fast and modern Todo app built with React, featuring task sharing via link, P2P Task Sync with WebRTC, theme customization, offline usage as a PWA, and caching for smooth performance.</i></p>
 
-<img src="https://raw.githubusercontent.com/maciekt07/TodoApp/main/screenshots/baner.png" />
+<img src="https://raw.githubusercontent.com/divyam007142/TodoApp/main/screenshots/baner.png" />
 
-## [https://react-cool-todo-app.netlify.app/](https://react-cool-todo-app.netlify.app/)
+## [https://react-to-do-app0.netlify.app/](https://react-to-do-app0.netlify.app/)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e3b07d34-f0da-4280-9076-fd40eea893c6/deploy-status)](https://app.netlify.com/sites/react-cool-todo-app/deploys)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/maciekt07/TodoApp?color=%23b624ff)
@@ -48,7 +48,7 @@
 
 Easily share your tasks with others using a link or QR code.
 
-**[Example Link](https://react-cool-todo-app.netlify.app/share?task=N4IgJg9gdgpiBcAzAhgGwM4wDQgA4EspYwEAXAJwFdsQpkBbOeEAdRgCN19SYACAERgA3GKgi5GUUiBxgY6AMbl8uUvmgIQAYXIxkPXsl6pkUMIQDmvXMgt8A7twAWvAEp6FpAHQArdL0QIcl4FVHwYKS9eJ1JSXHR4AHpE+1SvAE8ISlJKdhgvBQh6FP0FJwB+IQBedgBZAGsoRABpAA0ASQAxAEEADgAyUiqAJgBmdH7kdgB9MtNYVCrEXRgtCDktBlwvIIsZEBh6CB98TQBGRABOMDOAWgvRxAVb4YAGV7B7xAAWdnZ9wpiciaADE7AAbMNvohEPswPomCA3sMAKy3V7fF6vAAqrzO8DOl3gr3BXleAHZRgAtOF6MBhWCaZFojEvUa4-FnXrE15k940nAKBEWILpBAAbVA+BIzFew0uwwU7GQaMQ4Jgw1u3zOCkx7BRyHJtwUKMuyFeyGQMAUiBgo32dEYmhYQXq+0Ox1OzAeGoBECBoKhvRgMJAAF8sFKZWdwb1yWdUdryd9waMyaMcI7EWtzFA9jgPSdzogDaqYK9YYL-UFQeCbsNQ2GALo4EzoUgAZWQIiZcpZmLeHPgb3go15oxR1PDQA&userName=Maciej)**
+**[Example Link](https://react-to-do-app0.netlify.app/share?task=N4IgJg9gdgpiBcAzAhgGwM4wDQgA4EspYwEAXAJwFdsQpkBbOeEAdRgCN19SYACAERgA3GKgi5GUUiBxgY6AMbl8uUvmgIQAYXIxkPXsl6pkUMIQDmvXMgt8A7twAWvAEp6FpAHQArdL0QIcl4FVHwYKS9eJ1JSXHR4AHpE+1SvAE8ISlJKdhgvBQh6FP0FJwB+IQBedgBZAGsoRABpAA0ASQAxAEEADgAyUiqAJgBmdH7kdgB9MtNYVCrEXRgtCDktBlwvIIsZEBh6CB98TQBGRABOMDOAWgvRxAVb4YAGV7B7xAAWdnZ9wpiciaADE7AAbMNvohEPswPomCA3sMAKy3V7fF6vAAqrzO8DOl3gr3BXleAHZRgAtOF6MBhWCaZFojEvUa4-FnXrE15k940nAKBEWILpBAAbVA+BIzFew0uwwU7GQaMQ4Jgw1u3zOCkx7BRyHJtwUKMuyFeyGQMAUiBgo32dEYmhYQXq+0Ox1OzAeGoBECBoKhvRgMJAAF8sFKZWdwb1yWdUdryd9waMyaMcI7EWtzFA9jgPSdzogDaqYK9YYL-UFQeCbsNQ2GALo4EzoUgAZWQIiZcpZmLeHPgb3go15oxR1PDQA&userName=Maciej)**
 
 <img src="https://raw.githubusercontent.com/maciekt07/TodoApp/main/screenshots/ShareDialog.png" width="300px" alt="Shared Task" />
 
@@ -56,9 +56,9 @@ Easily share your tasks with others using a link or QR code.
 
 This uses `window.ai` which is an experimental feature that works only in dev version of Chrome with some flags enabled. [More info](https://afficone.com/blog/window-ai-new-chrome-feature-api/)
 
-Code: [src/components/EmojiPicker.tsx](https://github.com/maciekt07/TodoApp/blob/main/src/components/EmojiPicker.tsx#L116)
+Code: [src/components/EmojiPicker.tsx](https://github.com/divyam007142/TodoApp/blob/main/src/components/EmojiPicker.tsx#L116)
 
-<img src="https://raw.githubusercontent.com/maciekt07/TodoApp/main/screenshots/emoji-ai.gif" alt="AI Emoji" width="360px" style="border-radius:12px" />
+<img src="https://raw.githubusercontent.com/divyam007142/TodoApp/main/screenshots/emoji-ai.gif" alt="AI Emoji" width="360px" style="border-radius:12px" />
 
 ### 🔄 P2P Task Sync with WebRTC
 
@@ -70,17 +70,17 @@ Securely sync all the data between devices using peer-to-peer WebRTC connections
 
 Choose from various color themes and toggle between light and dark modes to suit your preferences.
 
-<img src="https://raw.githubusercontent.com/maciekt07/TodoApp/main/screenshots/settings.png" width="500px" />
+<img src="https://raw.githubusercontent.com/divyam007142/TodoApp/main/screenshots/settings.png" width="500px" />
 
 ### 🗣️ Task Reading Aloud
 
 Option to have tasks read aloud using the native `SpeechSynthesis` API, with a selection of voices to choose from.
 
-<img src="https://raw.githubusercontent.com/maciekt07/TodoApp/main/screenshots/ReadAloud.png" width="260px" alt="Task Reading Aloud" />
+<img src="https://raw.githubusercontent.com/divyam007142/TodoApp/main/screenshots/ReadAloud.png" width="260px" alt="Task Reading Aloud" />
 
 ### 📥 Import/Export Tasks
 
-Users can import and export tasks to/from JSON files. This feature allows users to back up their tasks or transfer them to other devices easily. [Example Import File](https://github.com/maciekt07/TodoApp/blob/main/example-import.json)
+Users can import and export tasks to/from JSON files. This feature allows users to back up their tasks or transfer them to other devices easily. [Example Import File](https://github.com/divyam007142/TodoApp/blob/main/example-import.json)
 
 ### 📴 Progressive Web App (PWA)
 
@@ -92,7 +92,7 @@ This app is a Progressive Web App (PWA), which means it can be installed on your
 
 The app features a custom update prompt that notifies users when a new version is available, allowing for easy refresh to access the latest improvements.
 
-<img src="https://raw.githubusercontent.com/maciekt07/TodoApp/main/screenshots/UpdatePrompt.png" alt="update prompt" width="260px" />
+<img src="https://raw.githubusercontent.com/divyam007142/TodoApp/main/screenshots/UpdatePrompt.png" alt="update prompt" width="260px" />
 
 ### 📱 Custom Splash Screens
 
@@ -118,23 +118,23 @@ The app will now be running at [http://localhost:5173/](http://localhost:5173/).
 
 ## 📷 Screenshots
 
-<img src="https://raw.githubusercontent.com/maciekt07/TodoApp/main/screenshots/ss1.png" width="300px" />
-<img src="https://raw.githubusercontent.com/maciekt07/TodoApp/main/screenshots/ss2.png" width="300px" />
+<img src="https://raw.githubusercontent.com/divyam007142/TodoApp/main/screenshots/ss1.png" width="300px" />
+<img src="https://raw.githubusercontent.com/divyam007142/TodoApp/main/screenshots/ss2.png" width="300px" />
 
-<img src="https://raw.githubusercontent.com/maciekt07/TodoApp/main/screenshots/ss3.png" width="300px" />
+<img src="https://raw.githubusercontent.com/divyam007142/TodoApp/main/screenshots/ss3.png" width="300px" />
 
-<!-- <img src="https://raw.githubusercontent.com/maciekt07/TodoApp/main/screenshots/ss4.png" width="300px" />
+<!-- <img src="https://raw.githubusercontent.com/divyam007142/TodoApp/main/screenshots/ss4.png" width="300px" />
 
-<img src="https://raw.githubusercontent.com/maciekt07/TodoApp/main/screenshots/ss5.png" width="300px" />
+<img src="https://raw.githubusercontent.com/divyam007142/TodoApp/main/screenshots/ss5.png" width="300px" />
 
 <img src="https://raw.githubusercontent.com/maciekt07/TodoApp/main/screenshots/ss6.png" width="300px" /> -->
 
-<img src="https://raw.githubusercontent.com/maciekt07/TodoApp/main/screenshots/sspc1.png" width="650px" />
+<img src="https://raw.githubusercontent.com/divyam007142/TodoApp/main/screenshots/sspc1.png" width="650px" />
 
 ## 🚀 Performance
 
-<img src="https://raw.githubusercontent.com/maciekt07/TodoApp/main/screenshots/performance.png" width="600px" />
+<img src="https://raw.githubusercontent.com/divyam007142/TodoApp/main/screenshots/performance.png" width="600px" />
 
 ## Credits
 
-Made with ❤️ by [maciekt07](https://github.com/maciekt07), licensed under [MIT](https://github.com/maciekt07/TodoApp/blob/main/LICENSE).
+Made with ❤️ by [Lunar-vibes](https://github.com/divyam007142), licensed under [MIT](https://github.com/divyam007142/TodoApp/blob/main/LICENSE).
