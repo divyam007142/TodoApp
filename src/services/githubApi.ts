@@ -7,7 +7,7 @@ import { showToast } from "../utils";
  */
 export const fetchGitHubInfo = async (): Promise<GitHubInfoResponse> => {
   const username = "divyam007142";
-  const repo = "To-Do-App";
+  const repo = "TodoApp";
   const branch = "main";
 
   try {
